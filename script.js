@@ -61,7 +61,7 @@ function pokazDaneMDowod(){
                 <p class="p-1">Seria i numer</p>
                 <h2 class="h2-1" id="h22">AMW074801</h2>
                 <p class="p-1">Organ wydający</p>
-                <h2 class="h2-1">PREZYDENT MIASTA GDAŃSK</h2>
+                <h2 class="h2-1">PREZYDENT MIASTA WARSZAWA</h2>
                 <p class="p-1">Termin ważności</p>
                 <h2 class="h2-1">2034-06-12</h2>
                 <p class="p-1">Data wydania</p>
@@ -88,7 +88,7 @@ function pokazDane(){
                 <p class="p-1">Seria i numer</p>
                 <h2 class="h2-1" id="h22">AMW074801</h2>
                 <p class="p-1">Organ wydający</p>
-                <h2 class="h2-1">PREZYDENT MIASTA GDAŃSK</h2>
+                <h2 class="h2-1">PREZYDENT MIASTA WARSZAWA</h2>
                 <p class="p-1">Termin ważności</p>
                 <h2 class="h2-1">2034-06-12</h2>
                 <p class="p-1">Data wydania</p>
